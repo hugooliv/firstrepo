@@ -1,2 +1,1 @@
-# firstrepo
-My first repository using HTML, CSS and Javascript
+Web page made during Launchbase 2.0 classes.
